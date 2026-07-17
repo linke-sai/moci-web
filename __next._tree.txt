@@ -1,2 +1,2 @@
 :HL["/moci-web/_next/static/chunks/0yg4eh~b~ae1e.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"IatAb7A68ncQbEtAea77O"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"DaJk1H8nxslHv7cTwpr7z"}
